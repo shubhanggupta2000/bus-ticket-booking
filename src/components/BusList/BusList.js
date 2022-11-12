@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { FaAngleDoubleDown } from "react-icons/fa";
 import './busList.css'
-import 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js'
+// import 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js'
 export default function BusList({ value: dataInp }) {
 
     const [obj, setObj] = useState('')
