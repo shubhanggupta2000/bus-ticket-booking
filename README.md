@@ -8,6 +8,7 @@
 
 Landing Page:
 
+![1](https://user-images.githubusercontent.com/79959361/201485529-f01b7214-6019-4bbb-b666-aeb48a3f5f47.png)
 
 Signing In Page:
 
@@ -23,6 +24,7 @@ Seat Selection Page:
 
 Payment Page:
 
+https://user-images.githubusercontent.com/79959361/201485569-054b955b-0bc0-42ac-9cec-aa5d71fb0176.mp4
 
 Confirmation Page:
 
