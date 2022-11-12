@@ -1,68 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Let's Travel 
+* This is the group project of ITIT-3106 Subject Code in Information Technology Course.
+* Made using MERN Stack (MongoDB, Express js, React js, Node js).
+* [Click Here!](https://github.com/shubhanggupta2000/bus-booking-backend-se-project) for the backend part.
+* [Click Here!](https://fazevennom-buses.netlify.app/) for the deployed website.
 
-## Available Scripts
+# Glimpse!
 
-In the project directory, you can run:
+![1](https://user-images.githubusercontent.com/79959361/201478171-e6b4f9d8-752c-4ebb-8bc3-8c3187c2c097.png)
+![2](https://user-images.githubusercontent.com/79959361/201478187-b920efb8-179c-4edd-8e7a-c4c61a780cbe.png)
+![3](https://user-images.githubusercontent.com/79959361/201478189-d1b6efd5-8e2f-403c-acb9-64622a5d9e38.png)
+![4](https://user-images.githubusercontent.com/79959361/201478192-33f42821-5433-410b-bb04-9794a3e56ef7.png)
+![5](https://user-images.githubusercontent.com/79959361/201478197-170663f7-106b-4e6a-bc47-374ff8940bbf.png)
 
-### `yarn start`
+## Front-End
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Sign-In & Sign-Up Pages.
+* Uses Token based system, so only registered users can access the website  passport js.
+* Password hashing using passport js.
+* Has a profile page, which will display all information about the signed in user.
+* List of cities for users to choose from (starting city & destination city). 
+* Seat selection page has a very user friendly environment, which also generates dynamic forms for storing data's of passengers.
+* Final page has a ticket displaying component, it displays all passenger data and also generates a random number as a transaction ID.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Back-End
 
-### `yarn test`
+* Uses Express js based application for the backend process.
+* Uses MongoDB atlas for storing the collections.
+* Uses passport js for authenticating user and token based system.
+* Uses passport js for hashing the password before sending the data to the cloud.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Group Members
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+| Member Name | Student ID |
+| ----------- | ---------- |
+| Shubhang Gupta | 2020IMT-098 |
+| Shivam Tiwari | 2020IMT-092 |
+| Som Dengre | 2020IMT-101 |
+| Aman Kumar | 2020IMT-007 |
