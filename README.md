@@ -6,16 +6,37 @@
 
 # Glimpse!
 
-![1](https://user-images.githubusercontent.com/79959361/201478171-e6b4f9d8-752c-4ebb-8bc3-8c3187c2c097.png)
+Landing Page:
+
+
+Signing In Page:
+
 ![2](https://user-images.githubusercontent.com/79959361/201478187-b920efb8-179c-4edd-8e7a-c4c61a780cbe.png)
+
+Bus Selection Page:
+
 ![3](https://user-images.githubusercontent.com/79959361/201478189-d1b6efd5-8e2f-403c-acb9-64622a5d9e38.png)
-![4](https://user-images.githubusercontent.com/79959361/201478192-33f42821-5433-410b-bb04-9794a3e56ef7.png)
-![5](https://user-images.githubusercontent.com/79959361/201478197-170663f7-106b-4e6a-bc47-374ff8940bbf.png)
+
+Seat Selection Page:
+
+![6](https://user-images.githubusercontent.com/79959361/201484498-d1f5d04c-408e-423a-9871-25c9bd8f098e.png)
+
+Payment Page:
+
+
+Confirmation Page:
+
+![4](https://user-images.githubusercontent.com/79959361/201484433-43a59a44-d347-47a3-af6c-4c21a14cb6c9.png)
+
+Profile Page:
+
+![5](https://user-images.githubusercontent.com/79959361/201484423-91eafb7e-cd9d-474f-9581-f7ae87366811.png)
+
 
 ## Front-End
 
 * Sign-In & Sign-Up Pages.
-* Uses Token based system, so only registered users can access the website  passport js.
+* Uses Token based system, so only registered users can access the website.
 * Password hashing using passport js.
 * Has a profile page, which will display all information about the signed in user.
 * List of cities for users to choose from (starting city & destination city). 
